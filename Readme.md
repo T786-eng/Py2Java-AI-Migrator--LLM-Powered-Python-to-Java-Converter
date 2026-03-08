@@ -26,8 +26,8 @@ Ensure you have Python installed on your system. You will also need an **Anthrop
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/AI-Code-Migration-Tool.git](https://github.com/YourUsername/AI-Code-Migration-Tool.git)
-   cd AI-Code-Migration-Tool
+   git clone:
+   https://github.com/T786-eng/Py2Java-AI-Migrator--LLM-Powered-Python-to-Java-Converter.git
    ```
 
 2. **Install dependencies:**
