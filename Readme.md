@@ -25,8 +25,8 @@ Ensure you have Python installed on your system. You will also need an **Anthrop
 
 ### Installation
 1. **Clone the repository:**
-   ```bash
    git clone:
+   ```bash
    https://github.com/T786-eng/Py2Java-AI-Migrator--LLM-Powered-Python-to-Java-Converter.git
    ```
 
