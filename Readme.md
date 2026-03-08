@@ -16,7 +16,14 @@ As developers frequently switch between languages, manual migration is time-cons
 * **Frontend:** [Streamlit](https://streamlit.io/)
 * **AI Model:** [Anthropic Claude 3.5 Opus](https://www.anthropic.com/claude)
 * **Backend:** Python
-* **Deployment:** Localhost (via Streamlit)
+* **Deployment:** [Streamlit Cloud](https://py2java-ai-migrator--llm-powered-python-to-java-converter-ew6j.streamlit.app/)
+
+---
+
+### 🌐 Live Demo
+You can access the live application here: [Py2Java AI Migrator](https://py2java-ai-migrator--llm-powered-python-to-java-converter-ew6j.streamlit.app/)
+
+
 
 ## 🚀 Getting Started
 
